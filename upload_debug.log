@@ -1,0 +1,35 @@
+[2025-09-27 07:28:55] DEBUG: Received data: 
+[2025-09-27 07:30:41] DEBUG: Received data: {"type":"operation","operation_type":"open","mode":"online","distance_at_operation":4,"lamp_status":"RED ON - Parcel Full","motion_detected":true,"servo_position":0,"success":true,"timestamp":"28159"}
+[2025-09-27 07:30:41] DEBUG: Received data: {"type":"device_status","servo_position":0,"box_is_open":true,"last_motion_time":"28435","uptime_seconds":28,"wifi_connected":true,"timestamp":"28435"}
+[2025-09-27 07:30:41] DEBUG: Received data: {"type":"sensor","distance_cm":4,"lamp_status":"RED","pir_motion":true,"motion_detected_at":"28565","timestamp":"28565"}
+[2025-09-27 07:30:43] DEBUG: Received data: {"type":"heartbeat","uptime_seconds":30,"wifi_signal":-42,"free_heap":227656,"timestamp":"30030"}
+[2025-09-27 07:30:47] DEBUG: Received data: {"type":"operation","operation_type":"close","mode":"online","distance_at_operation":3,"lamp_status":"RED ON - Parcel Full","motion_detected":true,"servo_position":90,"success":true,"timestamp":"34212"}
+[2025-09-27 07:30:47] DEBUG: Received data: {"type":"device_status","servo_position":90,"box_is_open":false,"last_motion_time":"34405","uptime_seconds":34,"wifi_connected":true,"timestamp":"34405"}
+[2025-09-27 07:30:51] DEBUG: Received data: {"type":"sensor","distance_cm":3,"lamp_status":"RED","pir_motion":true,"motion_detected_at":"38923","timestamp":"38923"}
+[2025-09-27 07:30:57] DEBUG: Received data: {"type":"sensor","distance_cm":3,"lamp_status":"RED","pir_motion":true,"motion_detected_at":"44177","timestamp":"44177"}
+[2025-09-27 07:31:02] DEBUG: Received data: {"type":"sensor","distance_cm":3,"lamp_status":"RED","pir_motion":true,"motion_detected_at":"49124","timestamp":"49124"}
+[2025-09-27 07:31:12] DEBUG: Received data: {"type":"sensor","distance_cm":3,"lamp_status":"RED","pir_motion":true,"motion_detected_at":"59252","timestamp":"59252"}
+[2025-09-27 07:31:13] DEBUG: Received data: {"type":"heartbeat","uptime_seconds":60,"wifi_signal":-55,"free_heap":227656,"timestamp":"60325"}
+[2025-09-27 07:31:22] DEBUG: Received data: {"type":"sensor","distance_cm":3,"lamp_status":"RED","pir_motion":true,"motion_detected_at":"69472","timestamp":"69472"}
+[2025-09-27 07:31:32] DEBUG: Received data: {"type":"sensor","distance_cm":3,"lamp_status":"RED","pir_motion":false,"motion_detected_at":"","timestamp":"79595"}
+[2025-09-27 07:31:42] DEBUG: Received data: {"type":"sensor","distance_cm":3,"lamp_status":"RED","pir_motion":false,"motion_detected_at":"","timestamp":"89719"}
+[2025-09-27 07:31:43] DEBUG: Received data: {"type":"heartbeat","uptime_seconds":90,"wifi_signal":-46,"free_heap":227656,"timestamp":"90714"}
+[2025-09-27 07:31:53] DEBUG: Received data: {"type":"sensor","distance_cm":3,"lamp_status":"RED","pir_motion":false,"motion_detected_at":"","timestamp":"99980"}
+[2025-09-27 07:32:01] DEBUG: Received data: {"type":"sensor","distance_cm":3,"lamp_status":"RED","pir_motion":true,"motion_detected_at":"108489","timestamp":"108489"}
+[2025-09-27 07:32:03] DEBUG: Received data: {"type":"sensor","distance_cm":3,"lamp_status":"RED","pir_motion":true,"motion_detected_at":"110207","timestamp":"110207"}
+[2025-09-27 07:32:13] DEBUG: Received data: {"type":"sensor","distance_cm":3,"lamp_status":"RED","pir_motion":true,"motion_detected_at":"120332","timestamp":"120332"}
+[2025-09-27 07:32:13] DEBUG: Received data: {"type":"heartbeat","uptime_seconds":120,"wifi_signal":-50,"free_heap":227688,"timestamp":"120950"}
+[2025-09-27 07:32:23] DEBUG: Received data: {"type":"sensor","distance_cm":3,"lamp_status":"RED","pir_motion":true,"motion_detected_at":"130740","timestamp":"130740"}
+[2025-09-27 07:32:33] DEBUG: Received data: {"type":"sensor","distance_cm":3,"lamp_status":"RED","pir_motion":true,"motion_detected_at":"140960","timestamp":"140960"}
+[2025-09-27 07:32:34] DEBUG: Received data: {"type":"sensor","distance_cm":3,"lamp_status":"RED","pir_motion":true,"motion_detected_at":"141100","timestamp":"141100"}
+[2025-09-27 07:32:44] DEBUG: Received data: {"type":"heartbeat","uptime_seconds":151,"wifi_signal":-48,"free_heap":227688,"timestamp":"151047"}
+[2025-09-27 07:32:44] DEBUG: Received data: {"type":"sensor","distance_cm":3,"lamp_status":"RED","pir_motion":true,"motion_detected_at":"151426","timestamp":"151426"}
+[2025-09-27 07:32:54] DEBUG: Received data: {"type":"sensor","distance_cm":3,"lamp_status":"RED","pir_motion":true,"motion_detected_at":"161579","timestamp":"161579"}
+[2025-09-27 07:33:04] DEBUG: Received data: {"type":"sensor","distance_cm":3,"lamp_status":"RED","pir_motion":false,"motion_detected_at":"","timestamp":"171782"}
+[2025-09-27 07:33:14] DEBUG: Received data: {"type":"heartbeat","uptime_seconds":181,"wifi_signal":-48,"free_heap":227688,"timestamp":"181392"}
+[2025-09-27 07:33:15] DEBUG: Received data: {"type":"sensor","distance_cm":3,"lamp_status":"RED","pir_motion":false,"motion_detected_at":"","timestamp":"182032"}
+[2025-09-27 07:33:25] DEBUG: Received data: {"type":"sensor","distance_cm":3,"lamp_status":"RED","pir_motion":false,"motion_detected_at":"","timestamp":"192300"}
+[2025-09-27 07:33:35] DEBUG: Received data: {"type":"sensor","distance_cm":3,"lamp_status":"RED","pir_motion":false,"motion_detected_at":"","timestamp":"202503"}
+[2025-09-27 07:33:44] DEBUG: Received data: {"type":"heartbeat","uptime_seconds":211,"wifi_signal":-46,"free_heap":227688,"timestamp":"211521"}
+[2025-09-27 07:33:46] DEBUG: Received data: {"type":"sensor","distance_cm":3,"lamp_status":"RED","pir_motion":false,"motion_detected_at":"","timestamp":"212881"}
+[2025-09-27 07:33:56] DEBUG: Received data: {"type":"sensor","distance_cm":3,"lamp_status":"RED","pir_motion":false,"motion_detected_at":"","timestamp":"223188"}

@@ -1,0 +1,35 @@
+[2025-09-27 07:28:55] ERROR: Error: Invalid JSON data: Syntax error
+[2025-09-27 07:30:41] ERROR: Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'iot_basesmart.operations' doesn't exist
+[2025-09-27 07:30:41] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'device_id' in 'field list'
+[2025-09-27 07:30:41] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-09-27 07:30:43] ERROR: Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'iot_basesmart.heartbeats' doesn't exist
+[2025-09-27 07:30:47] ERROR: Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'iot_basesmart.operations' doesn't exist
+[2025-09-27 07:30:47] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'device_id' in 'field list'
+[2025-09-27 07:30:51] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-09-27 07:30:57] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-09-27 07:31:02] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-09-27 07:31:12] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-09-27 07:31:13] ERROR: Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'iot_basesmart.heartbeats' doesn't exist
+[2025-09-27 07:31:22] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-09-27 07:31:32] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-09-27 07:31:42] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-09-27 07:31:43] ERROR: Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'iot_basesmart.heartbeats' doesn't exist
+[2025-09-27 07:31:53] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-09-27 07:32:01] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-09-27 07:32:03] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-09-27 07:32:13] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-09-27 07:32:13] ERROR: Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'iot_basesmart.heartbeats' doesn't exist
+[2025-09-27 07:32:23] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-09-27 07:32:33] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-09-27 07:32:34] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-09-27 07:32:44] ERROR: Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'iot_basesmart.heartbeats' doesn't exist
+[2025-09-27 07:32:44] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-09-27 07:32:54] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-09-27 07:33:04] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-09-27 07:33:14] ERROR: Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'iot_basesmart.heartbeats' doesn't exist
+[2025-09-27 07:33:15] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-09-27 07:33:25] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-09-27 07:33:35] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-09-27 07:33:44] ERROR: Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'iot_basesmart.heartbeats' doesn't exist
+[2025-09-27 07:33:46] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-09-27 07:33:56] ERROR: Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
